@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/CMIS/static/css/main.9d0934b1.css",
-    "main.js": "/CMIS/static/js/main.f695ff3c.js",
-    "static/js/453.8ab44547.chunk.js": "/CMIS/static/js/453.8ab44547.chunk.js",
+    "main.css": "/CMIS/static/css/main.2544e43a.css",
+    "main.js": "/CMIS/static/js/main.6ee6ccfd.js",
     "index.html": "/CMIS/index.html",
-    "main.9d0934b1.css.map": "/CMIS/static/css/main.9d0934b1.css.map",
-    "main.f695ff3c.js.map": "/CMIS/static/js/main.f695ff3c.js.map",
-    "453.8ab44547.chunk.js.map": "/CMIS/static/js/453.8ab44547.chunk.js.map"
+    "main.2544e43a.css.map": "/CMIS/static/css/main.2544e43a.css.map",
+    "main.6ee6ccfd.js.map": "/CMIS/static/js/main.6ee6ccfd.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d0934b1.css",
-    "static/js/main.f695ff3c.js"
+    "static/css/main.2544e43a.css",
+    "static/js/main.6ee6ccfd.js"
   ]
 }
